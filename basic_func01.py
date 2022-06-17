@@ -2,8 +2,8 @@
 
 # Return the value 0
 
-def Create():
+def main():
     return 0
-    
 
-print(Create())
+
+print(main())
